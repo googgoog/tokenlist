@@ -1,0 +1,36 @@
+{
+    "name": "Test Tokens List",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "logoURI": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/63/ca/b8/63cab8d2-4842-33df-6f10-f2c35aee9e69/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+    "timestamp": "2021-07-25 00:00:00.000+00:00",
+    "tokens": [
+        {
+            "chainId": 1111,
+            "address": "0x497dd5fe56508ed93a67d0519985a40bf99f5715",
+            "name": "20Token1",
+            "symbol": "20TOKEN1",
+            "decimals": 18,
+            "logoURI": "https://tokens.1inch.io/0x04fa0d235c4abf4bcf4787af4cf447de572ef828.png"
+        },
+        {
+            "chainId": 1111,
+            "address": "0x388ecffaede5762aa4878a62163fa6a5d16b7094",
+            "name": "20Token2",
+            "symbol": "20TOKEN2",
+            "decimals": 18,
+            "logoURI": "https://tokens.1inch.io/0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd.png"
+        },
+        {
+            "chainId": 1111,
+            "address": "0xbc9f3a024660f96a340044336a8204e5c3039691",
+            "name": "20Token3 ",
+            "symbol": "20TOKEN3",
+            "decimals": 18,
+            "logoURI": "https://tokens-data.1inch.io/images/0x0f5d2fb29fb7d3cfee444a200298f468908cc942.png"
+        }
+    ]
+}
