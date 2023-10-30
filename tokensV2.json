@@ -1,0 +1,36 @@
+{
+    "name": "Test Tokens List",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "logoURI": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/63/ca/b8/63cab8d2-4842-33df-6f10-f2c35aee9e69/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+    "timestamp": "2021-07-25 00:00:00.000+00:00",
+    "tokens": [
+        {
+            "chainId": 1111,
+            "address": "0x71cf7b96c20959b18599cfc4a894882347122bbc",
+            "name": "HermezNetworkToken",
+            "symbol": "HEZ",
+            "decimals": 18,
+            "logoURI": "https://tokens.1inch.io/0xeef9f339514298c6a857efcfc1a762af84438dee.png"
+        },
+        {
+            "chainId": 1111,
+            "address": "0x7d8631e5e855bcc38a2c3794da6ddd04b871ce46",
+            "name": "Loopring",
+            "symbol": "LRC",
+            "decimals": 18,
+            "logoURI": "https://tokens.1inch.io/0xbbbbca6a901c926f240b89eacb641d8aec7aeafd.png"
+        },
+        {
+            "chainId": 1111,
+            "address": "0x5e89ab4d528b045070b744bfc3b71697c203cd70",
+            "name": "WrappedBTC ",
+            "symbol": "WBTC",
+            "decimals": 18,
+            "logoURI": "https://tokens.1inch.io/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599.png"
+        }
+    ]
+}
