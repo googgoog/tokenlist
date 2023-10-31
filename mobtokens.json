@@ -35,7 +35,7 @@
         {
             "chainId": 1111,
             "address": "0x74b33de75bc6d08f292b61e8c6d5c7ae8b58fc96",
-            "name": "Wrapped MOB",
+            "name": "Wrapped Mobius",
             "symbol": "WMOB",
             "decimals": 18
         }
