@@ -1,0 +1,84 @@
+{
+    "name": "Test Tokens List",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "logoURI": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/63/ca/b8/63cab8d2-4842-33df-6f10-f2c35aee9e69/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+    "timestamp": "2021-07-25 00:00:00.000+00:00",
+    "tokens": [
+        {
+            "chainId": 1111,
+            "address": "0xbc9f3a024660f96a340044336a8204e5c3039691",
+            "name": "HermezNetworkToken",
+            "symbol": "HEZ",
+            "decimals": 18,
+            "logoURI": "https://tokens.1inch.io/0xeef9f339514298c6a857efcfc1a762af84438dee.png"
+        },
+        {
+            "chainId": 1111,
+            "address": "0xeb3efd64bc36b8ec8a7425ae1e2ab87279d937a8",
+            "name": "Loopring",
+            "symbol": "LRC",
+            "decimals": 18,
+            "logoURI": "https://tokens.1inch.io/0xbbbbca6a901c926f240b89eacb641d8aec7aeafd.png"
+        },
+        {
+            "chainId": 1111,
+            "address": "0x8a2dd1297a2b6d2ccfaf40eca0ce18ef7d9c42df",
+            "name": "WrappedBTC ",
+            "symbol": "WBTC",
+            "decimals": 18,
+            "logoURI": "https://tokens.1inch.io/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599.png"
+        },
+        {
+            "chainId": 1111,
+            "address": "0x254b09841113e9ddc611022ecd0cd0406858b140",
+            "name": "Cage Meme Index",
+            "symbol": "CMI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/CMI100x100.png"
+        },
+        {
+            "chainId": 1111,
+            "address": "0x06cd2596c5c786daafeef8fb23576401d6516316",
+            "name": "MetaPortal Gaming Index",
+            "symbol": "GAME",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/GAME.png"
+        },
+        {
+            "chainId": 1111,
+            "address": "0x497dd5fe56508ed93a67d0519985a40bf99f5715",
+            "name": "DeFi Hall of Fame",
+            "symbol": "HALL",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/HALL_x100.png"
+        },
+        {
+            "chainId": 1111,
+            "address": "0x388ecffaede5762aa4878a62163fa6a5d16b7094",
+            "name": "Nostradamus Capital Fund",
+            "symbol": "NCF",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/ncf.png"
+        },
+        {
+            "chainId": 1111,
+            "address": "0xcf3de49d835cf5ea2342216344340fdbe561716e",
+            "name": "Layer 2 Index",
+            "symbol": "LTI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/lti.svg"
+        },
+        {
+            "chainId": 1111,
+            "address": "0xcb22019917b33c5e782d53d51a8ac8ffb31a080d",
+            "name": "Gemach Index C",
+            "symbol": "MACHC",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/GemachTokenLogo.png"
+        }
+    ]
+}
