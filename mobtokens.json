@@ -10,7 +10,7 @@
     "tokens": [
         {
             "chainId": 1111,
-            "address": "0x5e89ab4d528b045070b744bfc3b71697c203cd70",
+            "address": "0xbc9f3a024660f96a340044336a8204e5c3039691",
             "name": "HermezNetworkToken",
             "symbol": "HEZ",
             "decimals": 18,
@@ -18,7 +18,7 @@
         },
         {
             "chainId": 1111,
-            "address": "0x7f2f8631d3f4a73ccbbcb118eb2764d909fb2687",
+            "address": "0xeb3efd64bc36b8ec8a7425ae1e2ab87279d937a8",
             "name": "Loopring",
             "symbol": "LRC",
             "decimals": 18,
@@ -26,7 +26,7 @@
         },
         {
             "chainId": 1111,
-            "address": "0x62bc536cb5b1acbc6d26fc8e19da623a52be3533",
+            "address": "0x8a2dd1297a2b6d2ccfaf40eca0ce18ef7d9c42df",
             "name": "WrappedBTC ",
             "symbol": "WBTC",
             "decimals": 18,
@@ -34,7 +34,7 @@
         },
         {
             "chainId": 1111,
-            "address": "0xff112a2ccb509e8a444c17ff19065d04126a5b70",
+            "address": "0x254b09841113e9ddc611022ecd0cd0406858b140",
             "name": "Cage Meme Index",
             "symbol": "CMI",
             "decimals": 18,
@@ -42,7 +42,7 @@
         },
         {
             "chainId": 1111,
-            "address": "0x6d71578411aaa919cbd801e4bcd6d0d0c468e170",
+            "address": "0x06cd2596c5c786daafeef8fb23576401d6516316",
             "name": "MetaPortal Gaming Index",
             "symbol": "GAME",
             "decimals": 18,
@@ -50,7 +50,7 @@
         },
         {
             "chainId": 1111,
-            "address": "0x4a1ca5cc5f39ade6cbe6f69522842e0df8b91731",
+            "address": "0x497dd5fe56508ed93a67d0519985a40bf99f5715",
             "name": "DeFi Hall of Fame",
             "symbol": "HALL",
             "decimals": 18,
@@ -58,7 +58,7 @@
         },
         {
             "chainId": 1111,
-            "address": "0x7d8631e5e855bcc38a2c3794da6ddd04b871ce46",
+            "address": "0x388ecffaede5762aa4878a62163fa6a5d16b7094",
             "name": "Nostradamus Capital Fund",
             "symbol": "NCF",
             "decimals": 18,
@@ -66,7 +66,7 @@
         },
         {
             "chainId": 1111,
-            "address": "0x60d47112c57fb36def5cb5d71e636349932a9faf",
+            "address": "0xcf3de49d835cf5ea2342216344340fdbe561716e",
             "name": "Layer 2 Index",
             "symbol": "LTI",
             "decimals": 18,
@@ -74,7 +74,7 @@
         },
         {
             "chainId": 1111,
-            "address": "0x896bcfbad3c435e71abe9fd731b5181fa6552708",
+            "address": "0xcb22019917b33c5e782d53d51a8ac8ffb31a080d",
             "name": "Gemach Index C",
             "symbol": "MACHC",
             "decimals": 18,
