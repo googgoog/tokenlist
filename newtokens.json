@@ -79,6 +79,20 @@
             "symbol": "MACHC",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/GemachTokenLogo.png"
+        },
+        {
+            "chainId": 1111,
+            "address": "0x875875120eA1aFa962dE1b04016FeaB44f2960d6",
+            "name": "Wrapped ETH",
+            "symbol": "WETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 1111,
+            "address": "0x875875120eA1aFa962dE1b04016FeaB44f2960d6",
+            "name": "Wrapped ETH",
+            "symbol": "WETH",
+            "decimals": 18
         }
     ]
 }
