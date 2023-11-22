@@ -1,0 +1,20 @@
+{
+    "name": "Mobius Tokens List",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "logoURI": "https://mobiusverse.s3.ap-south-1.amazonaws.com/mobius-logo-token-dark.png",
+    "timestamp": "2021-11-11 00:00:00.000+00:00",
+    "tokens": [
+        {
+            "chainId": 1111,
+            "address": "0x875875120eA1aFa962dE1b04016FeaB44f2960d6",
+            "name": "Wrapped ETH",
+            "symbol": "WETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+        }
+    ]
+}
